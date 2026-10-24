@@ -16,4 +16,4 @@ def enviar(dados):
 
 
 if __name__ == "__main__":
-    print(enviar({"mensagem": "Olá, n8n!"}))
+    print(enviar({"mensagem": "Olá, n8n! Teste de PR"}))
